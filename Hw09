@@ -91,7 +91,7 @@ def main():
         else:
             result = command(data)
         print(result)
-        if command == 'exits':
+        if command == exits:
             break
 
 
